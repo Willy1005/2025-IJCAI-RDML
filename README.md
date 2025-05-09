@@ -8,7 +8,7 @@ This is the official implementation for [Provable Dynamic Fusion for Low-Quality
 </p>
 - We proposes a new Reliable Disentanglement Multi-view Learning (RDML) framework against view adversarial attacks.
 <p align="center">
-<img src="fig/framework.png" width="684" height="359">
+<img src="fig/framework.png" width="820" height="430">
 </p>
 
 
