@@ -13,7 +13,11 @@ This is the official implementation for [Reliable Disentanglement Multi-view Lea
 <img src="fig/framework.png" width="820" height="430">
 </p>
 
+## Usage Example
 
+```
+python main.py
+```
 
 ## Citation
 If you find this work useful or interesting, please consider citing it.
