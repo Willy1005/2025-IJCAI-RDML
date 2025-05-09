@@ -1,4 +1,4 @@
-# Pytorch implementation of Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks (IJCAI 2025) **[[arXiv](https://arxiv.org/abs/2505.04046)]**
+# Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks (IJCAI 2025) **[[arXiv](https://arxiv.org/abs/2505.04046)]**
 
 This is the official implementation for [Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks](https://arxiv.org/abs/2505.04046) (IJCAI 2025) by Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, Yuan Sun and Dezhong Peng.
 
