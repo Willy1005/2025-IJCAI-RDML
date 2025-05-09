@@ -14,6 +14,7 @@ This is the official implementation for [Reliable Disentanglement Multi-view Lea
 </p>
 
 ## Usage Example
+To run our RDML in clean or adversarial setting:
 
 ```
 python main.py
