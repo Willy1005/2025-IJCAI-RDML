@@ -4,7 +4,7 @@ More details will be released soon.
 This is the official implementation for [Provable Dynamic Fusion for Low-Quality Multimodal Data](https://icml.cc/virtual/2023/poster/25229) (IJCAI 2025) by Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, Yuan Sun and Dezhong Peng
 - This paper studies a less-touched adversarial unreliability problem (AUP) for existing trusted multi-view learning.
 <p align="center">
-<img src="fig/aup.png" width="768" height="466">
+<img src="fig/aup.png" width="384" height="233">
 </p>
 - We proposes a new Reliable Disentanglement Multi-view Learning (RDML) framework against view adversarial attacks.
 <p align="center">
