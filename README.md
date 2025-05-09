@@ -1,7 +1,7 @@
 # Pytorch implementation of Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks (IJCAI 2025) **[[arXiv](https://arxiv.org/abs/2505.04046)]**
 More details will be released soon.
 
-This is the official implementation for [Provable Dynamic Fusion for Low-Quality Multimodal Data](https://icml.cc/virtual/2023/poster/25229) (IJCAI 2025) by Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, Yuan Sun and Dezhong Peng
+This is the official implementation for [Provable Dynamic Fusion for Low-Quality Multimodal Data](https://icml.cc/virtual/2023/poster/25229) (IJCAI 2025) by Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, Yuan Sun and Dezhong Peng.
 - This paper studies a less-touched adversarial unreliability problem (AUP) for existing trusted multi-view learning.
 <p align="center">
 <img src="fig/aup.png" width="461" height="280">
