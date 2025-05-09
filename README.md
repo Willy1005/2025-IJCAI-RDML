@@ -14,3 +14,6 @@ If you find this work useful or interesting, please consider citing it.
       url={https://arxiv.org/abs/2505.04046}, 
 }
 ```
+
+## Acknowledgement
+The code is inspired by [ECML: Reliable Conflictive Multi-view Learning](https://github.com/jiajunsi/RCML) and [Feature Separation and Recalibration for Adversarial Robustness](https://github.com/wkim97/FSR).
