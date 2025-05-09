@@ -3,8 +3,7 @@ More details will be released soon.
 
 ## Citation
 If you find this work useful or interesting, please consider citing it.
-
-<pre><code>
+```
 @misc{wang2025RDML,
       title={Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks}, 
       author={Xuyang Wang and Siyuan Duan and Qizhi Li and Guiduo Duan and Yuan Sun and Dezhong Peng},
@@ -14,4 +13,4 @@ If you find this work useful or interesting, please consider citing it.
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2505.04046}, 
 }
-</code></pre>
+```
